@@ -96,6 +96,10 @@ div::-webkit-scrollbar-corner{
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
+    display: center;
     font-size: 16px;
   }
+  a {
+    text-decoration: none;
+    color: #333;
+    }
